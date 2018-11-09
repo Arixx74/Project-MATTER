@@ -9,7 +9,7 @@ Not only to learn OOP but also data structures and algorithms that are used to i
 ```
   ______________________________                 ________________________________
  |                              |               |                                |
- |           Name list          |               |                                |
+ |           Name list          |-------------->|                                |
  |______________________________|               |                                |
          |                |                     |         Matrix Library         |
   _______|______     _____|_____                |                                |
@@ -22,7 +22,7 @@ Not only to learn OOP but also data structures and algorithms that are used to i
   _______|________________|_____                |           calculations         |
  |                              |               |                                |
  |                              |               |                                |
- |           Interface          |-------------->|                                |
+ |           Interface          |               |                                |
  |                              |               |                                |
  |______________________________|               |________________________________|
 
