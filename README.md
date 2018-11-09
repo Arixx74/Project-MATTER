@@ -9,13 +9,13 @@ Not only to learn OOP but also data structures and algorithms that are used to i
 ```
   ______________________________                 ________________________________
  |                              |               |                                |
- |           Name list          |-------------->|                                |
+ |           Name list          |               |                                |
  |______________________________|               |                                |
          |                |                     |         Matrix Library         |
   _______|______     _____|_____                |                                |
  |              |   |           |               |                                |
  |    Parser    |---|           |               |                                |
- |______________|   | Evaluator |-------------->|                                |
+ |______________|   | Evaluator |               |                                |
          |          |           |               |                                |
          |          |___________|               |                                |
          |                |                     |         Code for matrix        |
