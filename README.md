@@ -29,6 +29,7 @@ Not only to learn OOP but also data structures and algorithms that are used to i
 ```
 ---------------------
 ### Interactive Manual:
+```
 Declaration of variables:    Use declare keyword with syntax:
 
         declare: [variable1] [variable2] [...]Initialization of variable:
@@ -47,4 +48,5 @@ Performing operations:
 
 Display a variable:
     Use display keyword with the syntax:        display: [variable1] [variable2] [...]
+```
 ----------------------
